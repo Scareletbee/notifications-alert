@@ -50,3 +50,12 @@
   color: black;
   margin: auto;
 }
+
+.Home {
+  background-color:black;
+  text-align:center;
+  color:white;
+  display inline-box;
+  padding: 15px 26px;
+  border:2px;
+}
