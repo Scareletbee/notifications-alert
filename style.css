@@ -52,7 +52,9 @@
 }
 
 .Home {
-  background-color:black;
+  background:black;
+  width:80px;
+  height:30px;
   text-align:center;
   color:white;
   border:2px;
