@@ -54,7 +54,7 @@
 .Home {
   background-color:black;
   text-align:center;
-  justify-content:center;
+  align-items:center;
   color:white;
   display:inline-box;
   margin:auto;
