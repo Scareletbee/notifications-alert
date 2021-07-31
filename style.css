@@ -54,7 +54,7 @@
 .Home {
   background:black;
   width:100px;
-  height:60px;
+  height:auto;
   text-align:center;
   color:white;
   border:2px;
