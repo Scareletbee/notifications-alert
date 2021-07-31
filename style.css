@@ -1,0 +1,52 @@
+.notification {
+  display: inline-block;
+  padding: 15px 26px;
+  color: whitesmoke;
+  border: 8px;
+  border-radius: 5%;
+  text-align: center;
+  background-color: cornflowerblue;
+  position: relative;
+  text-decoration: none;
+  margin: 135px;
+}
+
+.notification:hover {
+  background: mistyrose;
+}
+
+.notification .alert {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  background-color: red;
+  color: white;
+  border-radius: 10%;
+}
+
+#msg {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk6K9snkQfdypDdaF6JsyaOG7H4OBjavKtFgwfORbyam6xDE1OQKXOsL9ha5PPr-BfwpQ&usqp=CAU);
+  background-attachment: fixed;
+  width: 70%;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: black;
+  border: 12px solid black;
+  margin: 200px;
+  font-family: "Roboto", sans-serif;
+}
+
+.p {
+  text-align: center;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+  background: lightgray;
+  width: 30%;
+  height: 80px;
+  color: black;
+  margin: auto;
+}
